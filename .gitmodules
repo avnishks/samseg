@@ -1,0 +1,4 @@
+[submodule "ITK"]
+	path = ITK
+	url = https://github.com/InsightSoftwareConsortium/ITK.git
+	branch = release-4.13
